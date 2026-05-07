@@ -1,0 +1,27 @@
+==============================
+TROUBLESHOOTING NOTES
+==============================
+
+Problem:
+Permission denied while executing file.
+
+Solution:
+Use chmod +x filename to make script executable.
+
+-----------------------------------
+
+Problem:
+Command not found.
+
+Solution:
+Verify package installation or PATH variable.
+
+-----------------------------------
+
+Problem:
+Unable to remove directory.
+
+Solution:
+Directory may not be empty.
+Use:
+rm -r directory_name
