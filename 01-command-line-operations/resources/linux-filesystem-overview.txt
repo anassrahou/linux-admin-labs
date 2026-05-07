@@ -1,0 +1,14 @@
+==============================
+LINUX FILESYSTEM OVERVIEW
+==============================
+
+/               Root directory
+/home           User home directories
+/etc            System configuration files
+/var            Logs and variable data
+/bin            Essential commands
+/tmp            Temporary files
+/usr            User applications
+/opt            Optional software
+/dev            Devices
+/proc           Process information
