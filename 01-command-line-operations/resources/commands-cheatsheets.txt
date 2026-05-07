@@ -1,0 +1,42 @@
+==============================
+LINUX COMMANDS CHEATSHEET
+==============================
+
+[ Navigation ]
+
+pwd                 Show current directory
+ls                  List files
+ls -lah             Detailed file listing
+cd                  Change directory
+cd ..               Move one directory back
+cd ~                Go to home directory
+
+[ File Operations ]
+
+touch file.txt      Create file
+cp file1 file2      Copy file
+mv old new          Move/Rename file
+rm file.txt         Remove file
+
+[ Directory Operations ]
+
+mkdir test          Create directory
+rmdir test          Remove empty directory
+rm -r test          Remove directory recursively
+
+[ File Viewing ]
+
+cat file.txt        Display file contents
+less file.txt       Open file viewer
+head file.txt       Show first lines
+tail file.txt       Show last lines
+
+[ Search ]
+
+find . -name test.txt
+locate test.txt
+
+[ Help ]
+
+man ls
+ls --help
